@@ -1,14 +1,21 @@
-For "parry x bosses", everything that has or is part of a healthbar at the bottom of the screen counts, so Ruin Sentinels in Bastille is one and a hollow in Congregation is also one. Different types of enemies are not a different fight, one Estoc Skeleton counts as parrying Skeleton Lords.
+For "parry x bosses", everything that has or is part of a healthbar at the bottom of the screen counts, so Ruin Sentinels in Bastille is one and a hollow in 
+Congregation is one too. Different types of enemies are not a different fight, one Estoc Skeleton counts as parrying Skeleton Lords.
  
-Killing bosses with something means killing them exclusively with the mentioned method, no other form of damaging is allowed (for example you can not get the ring of thorns kill goal and kill a boss with only consumables in one goal, and you can not kill pursuer with the ballista and have it count for fight and kill a boss in CoC). 
+Killing bosses with something means killing them exclusively with the mentioned method, no other form of damaging is allowed (for example you can not get the ring of
+thorns kill goal and kill a boss with only consumables in one goal, and you can not kill pursuer with the ballista and have it count for fight and kill a boss in CoC).
  
 Red Lizards are not Crystal Lizards.
  
-If you get goals that restrict you from a certain action (e.g. don't attune anything) but get another goal that contradicts with it (kill a boss with sorcery) you are allowed to bypass the restriction just for that one fight, but not utilize the otherwise prohibited actions in any other way (e.g. you are not allowed to use the homeward miracle after killing Old Iron King with Miracles or kill hollows with sorceries on the way to last giant if you want to kill him only with sorceries, assuming don't attune anything in both cases). [does not apply to line bingo]
+If you get goals that restrict you from a certain action (e.g. don't attune anything) but get another goal that contradicts with it (kill a boss with sorcery) you are 
+allowed to bypass the restriction just for that one fight, but not utilize the otherwise prohibited actions in any other way (e.g. you are not allowed to use the 
+homeward miracle after killing Old Iron King with Miracles or kill hollows with sorceries on the way to last giant if you want to kill him only with sorceries, 
+assuming don't attune anything in both cases). [does not apply to line bingo]
  
-Should you get a board that involves two things that are impossible to complete in the same playthrough (start as deprived and sorcerer, kill old dragonslayer and najka as your first boss) you have to reroll the board. [does not apply to line bingo]
+Should you get a board that involves two things that are impossible to complete in the same playthrough (start as deprived and sorcerer, kill old dragonslayer and 
+najka as your first boss) you have to reroll the board. [does not apply to line bingo]
  
-For goals that require you to have items in your inventory at the same time (like all 6 different resins) you are allowed to use up all of one kind after marking off the goal (so having all 6 at the same time in your inventory at one point).
+For goals that require you to have items in your inventory at the same time (like all 6 different resins) you are allowed to use up all of one kind after marking off 
+the goal (so having all 6 at the same time in your inventory at one point).
  
 The Butterfly Shield is not part of the Butterfly set and thus does not count towards killing a boss with the butterfly set.
  
@@ -16,14 +23,19 @@ For "kill a boss with powerstanced weapons" you are required to only use powerst
  
 Don't use a bow means no shooting, no aiming, no jump attacking, nothing.
  
-Should you accidentally break a restriction, you are allowed to undo your actions as so you don't get any benefit from it (e.g. dark signing souls/making sure you never spend them if you unrightfully popped a soul; resetting a boss fight if you notice you unrightfully used a resin...)
+Should you accidentally break a restriction, you are allowed to undo your actions as so you don't get any benefit from it (e.g. dark signing souls/making sure you
+never spend them if you unrightfully popped a soul; resetting a boss fight if you notice you unrightfully used a resin...)
  
-Kill Najka as your first Boss + don't pop any souls + start as deprived/sorcerer is a reason for a reroll of the board. Even though it is technically doable, it either requires a really precise jump with limited amounts of tries, an old skip that is hard and that nobody likes or farming of normal enemies for 12000 souls. [does not apply to line bingo]
+Kill Najka as your first Boss + don't pop any souls + start as deprived/sorcerer is a reason for a reroll of the board. Even though it is technically doable, it either
+requires a really precise jump with limited amounts of tries, an old skip that is hard and that nobody likes or farming of normal enemies for 12000 souls. [does not
+apply to line bingo]
  
 Chimes, Staves and Pyromancy Flames are not considered weapons.
  
-"buying infusions from mcduff without using chloanne" means you have to infuse weapons (the same or different ones) with different infusions, without buying the stones for it from chloanne. You are free to use chloanne in any other way, but any infusion you do with her help won't count for this goal.
+"buying infusions from mcduff without using chloanne" means you have to infuse weapons (the same or different ones) with different infusions, without buying the stones
+for it from chloanne. You are free to use chloanne in any other way, but any infusion you do with her help won't count for this goal.
  
 Dragonrider in Heide's Tower and Dragonriders in Drangleic Castle are two different bosses.
  
-For "use Pharros Contraptions in different zones" zones means the bonfire area you are in, entire Iron Keep is one zone, Sinner's Rise is one zone, Lost Bastille is one zone and so on.
+For "use Pharros Contraptions in different zones" zones means the bonfire area you are in, entire Iron Keep is one zone, Sinner's Rise is one zone, Lost Bastille is 
+one zone and so on.

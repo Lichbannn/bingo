@@ -237,6 +237,6 @@
 {"name" : "in dragon shrine, kill the first three giant warriors and then kill all dragon dudes on the final stairs"},
 {"name" : "purchase all infusion options from Mcduff without speaking to Chloanne"},
 {"name" : "have all available NPCs alive in Majula together (gathering of exiles)"},
-{"name" : "have all 11 unique lesser soul items in your inventory"}
+{"name" : "have all 11 unique lesser soul items in your inventory"},
 {"name" : "fight and defeat 4 Bosses whilst in Covenant of Champions"}
 ]

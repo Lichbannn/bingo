@@ -172,7 +172,7 @@
 {"name" : "have at least one of each arrow type in your inventory"},
 {"name" : "have at least one of each great arrow type in your inventory"},
 {"name" : "have at least one of each bolt type in your inventory"},
-{"name" : "kill the Majula mimic (ng+)"}
+{"name" : "kill the Majula mimic (ng+)"},
 {"name" : "parry 3 different Bosses"},
 {"name" : "kill 3 pursuers"},
 {"name" : "Purchase 3 different Infusions from Mcduff without using Chloanne"}

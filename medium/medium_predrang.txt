@@ -144,7 +144,7 @@
 {"name" : "traverse 2 fog walls from behind"},
 {"name" : "repair a weapon at the whipping tree"},
 {"name" : "talk to Gavlan in all 3 locations"},
-{"name" : "kill the Majula mimic (ng+)"}
+{"name" : "kill the Majula mimic (ng+)"},
 {"name" : "parry 2 different Bosses"},
 {"name" : "kill 3 pursuers"},
 {"name" : "Purchase 3 different Infusions from Mcduff without using Chloanne"},

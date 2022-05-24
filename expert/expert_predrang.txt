@@ -120,6 +120,7 @@
 {"name" : "obtain the Simpleton's Ring"},
 {"name" : "obtain the Pilgrim's Spontoon"},
 {"name" : "obtain the Majestic Greatsword"},
+{"name" : "obtain both Smelter Swords (blue and red)"},
 {"name" : "obtain all 4 quartz +1 rings"},
 {"name" : "obtain the Pickaxe"},
 {"name" : "obtain clear bluestone ring +0, +1, and +2"},

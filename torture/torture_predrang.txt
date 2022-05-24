@@ -33,7 +33,7 @@
 {"name" : "kill the Pursuer without ballista or quick kill"},
 {"name" : "kill Dragonrider with a full arena"},
 {"name" : "kill a boss with powerstanced weapons"},
-{"name" : "kill a boss with powerstanced blue smelter swords (blue and red)},
+{"name" : "kill a boss with powerstanced blue smelter swords (blue and red)"},
 {"name" : "kill a boss with an NPC dropped weapon"},
 {"name" : "kill Najka with summoning Tark"},
 {"name" : "kill 7 pursuers"},

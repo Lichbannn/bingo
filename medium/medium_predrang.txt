@@ -147,5 +147,5 @@
 {"name" : "kill the Majula mimic (ng+)"},
 {"name" : "parry 2 different Bosses"},
 {"name" : "kill 3 pursuers"},
-{"name" : "Purchase 3 different Infusions from Mcduff without using Chloanne"},
+{"name" : "Purchase 3 different Infusions from Mcduff without using Chloanne"}
 ]

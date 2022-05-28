@@ -155,7 +155,7 @@
 {"name" : "join the Rat King covenant"},
 {"name" : "join the Pilgrims of Dark"},
 {"name" : "join the Dragon Remnants covenant"},
-{"name" : "Purchase 3 different Infusions from Mcduff without using Chloanne"},
+{"name" : "Purchase 4 different Infusions from Mcduff without using Chloanne"},
 {"name" : "get 7 estus flask uses"},
 {"name" : "upgrade the estus flask to +4"},
 {"name" : "spice a spell at Magerold"},

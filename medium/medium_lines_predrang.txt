@@ -84,7 +84,7 @@
 {"name" : "join the Bell Keepers"},
 {"name" : "join the Rat King covenant"},
 {"name" : "Purchase 4 different Infusion"},
-{"name" : "get 6 estus flask uses"},
+{"name" : "get 5 estus flask uses"},
 {"name" : "upgrade the estus flask to +4"},
 {"name" : "level a stat to 59"},
 {"name" : "upgrade a weapon to +10"},

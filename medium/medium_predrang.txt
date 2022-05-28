@@ -117,7 +117,7 @@
 {"name" : "join the Company of Champions"},
 {"name" : "use Gillian to place any ladder"},
 {"name" : "infuse a weapon"},
-{"name" : "get 7 estus flask uses"},
+{"name" : "get 5 estus flask uses"},
 {"name" : "upgrade the estus flask to +4"},
 {"name" : "spice a spell at Magerold"},
 {"name" : "level a stat to 99"},

@@ -151,7 +151,6 @@
 {"name" : "start as cleric"},
 {"name" : "start as sorcerer"},
 {"name" : "start without a gift"},
-{"name" : "start deprived with no gift"},
 {"name" : "light all 5 bonfires in The Lost Bastile"},
 {"name" : "light all 4 bonfires in Drangleic Castle"},
 {"name" : "light all 4 bonfires in Shrine of Amana"},

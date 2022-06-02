@@ -133,4 +133,6 @@
 {"name" : "kill 6 blue crystal lizards"},
 {"name" : "parry 4 different Bosses"},
 {"name" : "fight and defeat 2 Bosses whilst in Covenant of Champions"}
+{"name" : "learn 4 gestures"}
+{"name" : "obtain 12 (non-friendly-npc dropped) Human Effigies"}
 ]

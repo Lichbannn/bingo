@@ -142,5 +142,6 @@
 {"name" : "complete the first 2 steps of Pate's Questline"},
 {"name" : "use 7 Brightbugs"},
 {"name" : "obtain a Palestone"},
-{"name" : "obtain an Elizabeth Mushroom"}
+{"name" : "obtain an Elizabeth Mushroom"},
+{"name" : "make Creighton move to Shaded woods"}
 ]

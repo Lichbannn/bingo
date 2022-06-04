@@ -32,6 +32,7 @@
 {"name" : "kill a boss with consumables"},
 {"name" : "kill a boss with a poison weapon(no resin)"},
 {"name" : "kill a boss with a lightning weapon(no resin)"},
+{"name" : "kill a boss with a magic weapon(no resin)"},
 {"name" : "kill a boss with a bow"},
 {"name" : "kill a boss with a crossbow"},
 {"name" : "kill a boss on ng+3"},
@@ -140,5 +141,6 @@
 {"name" : "obtain all 4 Assassination (Navlaan) items"},
 {"name" : "complete the first 2 steps of Pate's Questline"},
 {"name" : "use 7 Brightbugs"},
-{"name" : "obtain a Palestone"}
+{"name" : "obtain a Palestone"},
+{"name" : "obtain an Elizabeth Mushroom"}
 ]

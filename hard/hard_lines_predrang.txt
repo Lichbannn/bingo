@@ -139,6 +139,6 @@
 {"name" : "feed a Covetous Demon"},
 {"name" : "obtain all 4 Assassination (Navlaan) items"},
 {"name" : "complete the first 2 steps of Pate's Questline"},
-{"name" : "Use 7 Brightbugs"},
+{"name" : "use 7 Brightbugs"},
 {"name" : "obtain a Palestone"}
 ]

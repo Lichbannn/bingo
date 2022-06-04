@@ -20,7 +20,7 @@
 {"name" : "kill the Belfry Gargoyles"},
 {"name" : "kill the Royal Rat Vanguard"},
 {"name" : "kill the Royal Rat Authority"},
-{"name" : "Kill Mytha the Baneful Queen"}
+{"name" : "Kill Mytha the Baneful Queen"},
 {"name" : "kill the Old Dragonslayer"},
 {"name" : "kill Vengarl's body"},
 {"name" : "kill the Pursuer without ballista or quick kill"},

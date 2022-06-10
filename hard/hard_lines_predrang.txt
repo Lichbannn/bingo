@@ -105,7 +105,7 @@
 {"name" : "Purchase 4 different Infusion"},
 {"name" : "get 6 estus flask uses"},
 {"name" : "upgrade the estus flask to +4"},
-{"name" : "level a stat to 69"},
+{"name" : "level a stat to 69+"},
 {"name" : "upgrade a weapon to +10"},
 {"name" : "kill 5 invisible hollows"},
 {"name" : "change the nature of your being"},

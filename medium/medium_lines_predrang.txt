@@ -31,7 +31,7 @@
 {"name" : "kill a boss with a magic weapon(no resin)"},
 {"name" : "kill a boss with a bow"},
 {"name" : "kill a boss with a crossbow"},
-{"name" : "kill a boss on ng+3"},
+{"name" : "kill a boss on ng+2"},
 {"name" : "kill a boss with only pyromancy"},
 {"name" : "kill a boss with only hexes"},
 {"name" : "kill a boss with only miracles"},

@@ -4,7 +4,9 @@ Congregation is one too. Different types of enemies are not a different fight, o
 Killing bosses with something means killing them exclusively with the mentioned method, no other form of damaging is allowed (for example you can not get the ring of
 thorns kill goal and kill a boss with only consumables in one goal, and you can not kill pursuer with the ballista and have it count for fight and kill a boss in CoC).
 
-If you have two similar goals, for example kill a boss with only pyromancy and kill a lord with only pyromancy, you can not kill freja with pyromancy and have it count for both goals. You can however e.g. kill pursuer with his own boss weapon, in covenant of champions, without the ballista, and have it count towards all 3 goals because they all add difficulty, instead of making one of them completely redundant.
+If you have two similar goals, for example kill a boss with only pyromancy and kill a lord with only pyromancy, you can not kill freja with pyromancy and have it 
+count for both goals. You can however e.g. kill pursuer with his own boss weapon, in covenant of champions, without the ballista, and have it count towards all 3 
+goals because they all add difficulty, instead of making one of them completely redundant.
  
 Red Lizards are not Crystal Lizards.
  

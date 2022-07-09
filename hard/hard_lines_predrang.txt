@@ -78,7 +78,7 @@
 {"name" : "obtain the Heide Lance"},
 {"name" : "obtain any Poisonbite Ring"},
 {"name" : "obtain the Bandit's Greataxe"},
-{"name" : "obtain the visible Aurora Set"},
+{"name" : "obtain the visible Aurous Set"},
 {"name" : "obtain a Murakumo"},
 {"name" : "obtain the Gyrm Axe"},
 {"name" : "obtain the Staff of Wisdom"},

@@ -135,7 +135,7 @@
 {"name" : "obtain the Bone Fist"},
 {"name" : "obtain Unleash Magic"},
 {"name" : "obtain the King's Crown"},
-{"name" : "obtain all 2 quartz +1 rings"},
+{"name" : "obtain 2 quartz +1 rings"},
 {"name" : "obtain the Pickaxe"},
 {"name" : "obtain clear bluestone ring +0, +1, and +2"},
 {"name" : "obtain chloranthy ring +0, +1, and +2"},

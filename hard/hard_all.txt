@@ -31,6 +31,7 @@
 {"name" : "kill Sinh the Slumbering Dragon"},
 {"name" : "kill Elana, Squalid Queen"},
 {"name" : "kill Aava the King's Pet"},
+{"name" : "kill The Gavlan and The Ornifex"},
 {"name" : "kill the Pursuer without ballista or quick kill"},
 {"name" : "kill Dragonrider with a full arena"},
 {"name" : "kill a boss with powerstanced weapons"},

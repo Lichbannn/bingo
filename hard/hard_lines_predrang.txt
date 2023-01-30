@@ -142,6 +142,7 @@
 {"name" : "obtain a Palestone"},
 {"name" : "obtain an Elizabeth Mushroom"},
 {"name" : "make Creighton move to Shaded woods"},
-{"name" : "kill Jester Thomas or kill Mytha with him"}
+{"name" : "kill Jester Thomas or kill Mytha with him"},
 {"name" : "Die by jumping into an enemy"},
+{"name" : "Only buy items from 2 vendors"}
 ]

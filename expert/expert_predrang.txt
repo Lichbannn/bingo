@@ -173,5 +173,7 @@
 {"name" : "purchase all infusion options from Mcduff without speaking to Chloanne"},
 {"name" : "have all available NPCs alive in Majula together (gathering of exiles)"},
 {"name" : "have all 11 unique lesser soul items in your inventory"},
+{"name" : "Die by jumping into an enemy"},
+{"name" : "Only buy items from 1 vendor"},
 {"name" : "fight and defeat 4 Bosses whilst in Covenant of Champions"}
 ]

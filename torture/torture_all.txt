@@ -11,6 +11,7 @@
 {"name" : "don't use any small lifegems"},
 {"name" : "don't pop any souls"},
 {"name" : "don't talk to Melentia"},
+{"name" : "don't buy items from vendors"},
 {"name" : "only heal with estus or bonfire"},
 {"name" : "don't use an upgraded weapon"},
 {"name" : "only use NPC drops as weapons"},

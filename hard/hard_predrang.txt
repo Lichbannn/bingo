@@ -157,5 +157,7 @@
 {"name" : "have all 6 resin types in your inventory"},
 {"name" : "kill 8 blue crystal lizards"},
 {"name" : "parry 4 different Bosses"},
+{"name" : "Die by jumping into an enemy"},
+{"name" : "Only buy items from 2 vendors"},
 {"name" : "fight and defeat 2 Bosses whilst in Covenant of Champions"}
 ]

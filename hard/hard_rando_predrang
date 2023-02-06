@@ -1,7 +1,7 @@
 [{"name" : "do not attune anything"},
 {"name" : "don't use a bow"},
 {"name" : "don't use any weapon with primary thrust type"},
-{"name" : "don't use any weapon with primary slash type"},
+{"name" : "don't use any slash attacks"},
 {"name" : "don't use any weapon with primary strike type"},
 {"name" : "don't use any resins"},
 {"name" : "don't use any brightbugs"},

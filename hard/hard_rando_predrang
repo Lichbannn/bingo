@@ -22,6 +22,7 @@
 {"name" : "kill the Royal Rat Vanguard"},
 {"name" : "kill the Royal Rat Authority"},
 {"name" : "kill the Old Dragonslayer"},
+{"name" : "kill a Smelter Demon"},
 {"name" : "kill Vengarl's body"},
 {"name" : "kill the Pursuer without ballista or quick kill"},
 {"name" : "kill Dragonrider with a full arena"},
@@ -82,5 +83,7 @@
 {"name" : "parry 4 different Bosses"},
 {"name" : "die by jumping into an enemy"},
 {"name" : "only buy items from 2 vendors"},
+{"name" : "let Gilligan place a ladder"},
+{"name" : "Complete Pate's questline (Earthen Peak)"},
 {"name" : "fight and defeat 2 Bosses whilst in Covenant of Champions"}
 ]

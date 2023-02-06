@@ -40,10 +40,10 @@
 {"name" : "kill a boss with only hexes"},
 {"name" : "kill a boss with only miracles"},
 {"name" : "kill a boss with only sorceries"},
-{"name" : "kill a boss with a whip"},
+{"name" : "kill a boss with a whip or lance"},
 {"name" : "kill a boss with a boss weapon"},
 {"name" : "kill a lord without leveling"},
-{"name" : "kill a lord with an Ultra Greatsword"},
+{"name" : "kill a lord with an ultra greatsword"},
 {"name" : "kill a lord whilst in Covenant of Champions"},
 {"name" : "kill Old Dragonslayer as your first boss"},
 {"name" : "kill a boss with a broken weapon"},
@@ -80,7 +80,7 @@
 {"name" : "cut off things from 3 different bosses"},
 {"name" : "kill 8 crystal lizards"},
 {"name" : "parry 4 different Bosses"},
-{"name" : "Die by jumping into an enemy"},
-{"name" : "Only buy items from 2 vendors"},
+{"name" : "die by jumping into an enemy"},
+{"name" : "only buy items from 2 vendors"},
 {"name" : "fight and defeat 2 Bosses whilst in Covenant of Champions"}
 ]
